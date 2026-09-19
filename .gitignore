@@ -1,0 +1,5 @@
+# CubeMX 生成工程，不入库
+Stm32CubeMX_prj/
+
+# IDE
+.vscode/
