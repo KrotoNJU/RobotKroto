@@ -3,3 +3,9 @@ Stm32CubeMX_prj/
 
 # IDE
 .vscode/
+
+#原理图
+SCH_STM32G431RBT6_BLDC_V1.3_2025-02-07.pdf
+
+#计划
+RobotAnkle_v5.md
