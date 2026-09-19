@@ -1,0 +1,30 @@
+# 默认不自动转换，避免误伤二进制文件
+* -text
+
+# 源码 / 文本类：统一 LF 行尾
+*.c          text eol=lf
+*.h          text eol=lf
+*.cpp        text eol=lf
+*.hpp        text eol=lf
+*.s          text eol=lf
+*.S          text eol=lf
+*.icf        text eol=lf
+*.ld         text eol=lf
+*.cmake      text eol=lf
+*.txt        text eol=lf
+*.md         text eol=lf
+*.json       text eol=lf
+*.yaml       text eol=lf
+*.yml        text eol=lf
+*.ninja      text eol=lf
+*.ioc        text eol=lf
+*.mxproject  text eol=lf
+CMakeLists.txt text eol=lf
+
+# 二进制 / 构建产物：禁止任何转换
+*.obj  binary
+*.o    binary
+*.a    binary
+*.lib  binary
+*.bin  binary
+*.hex  binary
