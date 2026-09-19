@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/RobotKroto/RK_sw/build/cmake_install.cmake",
+		"D:/RobotKroto/RK_sw/build/Drivers/cmake_install.cmake",
+		"D:/RobotKroto/RK_sw/build/FreeRTOS/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
